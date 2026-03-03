@@ -1,4 +1,5 @@
-# Stacking
+# Machine learning models
+Do the classification on the dataset with different machine learning models.
 
 ## Dataset Description
 The data for this project is real-word data for hospitalizing patients. Each
